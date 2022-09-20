@@ -1,13 +1,21 @@
 {
   "name": "client",
+<<<<<<< HEAD
   "homepage": "http://localhost:3000",
+=======
+>>>>>>> c0fec31a6def3aa37acfb6175de77effb7995935
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.2.0",
     "@material-ui/core": "^3.7.1",
     "@material-ui/icons": "^3.0.1",
     "axios": "^0.18.0",
+<<<<<<< HEAD
     "bootstrap": "^4.0.0",
+=======
+    "bootstrap": "4.1",
+>>>>>>> c0fec31a6def3aa37acfb6175de77effb7995935
     "disqus-react": "^1.0.5",
     "dompurify": "^1.0.8",
     "draft-js": "^0.10.5",

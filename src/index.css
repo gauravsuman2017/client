@@ -3,3 +3,41 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+#footer{
+	background-color:#F2F2F2;
+	color: #151515;
+	width:960px;
+	clear:both;
+	position: relative;
+	overflow: hidden;
+	margin: 0 auto;
+    padding: 20px;
+}
+
+.wrapper{
+	clear:both;
+	position: relative;
+	overflow: hidden;
+}
+
+.left {
+height:200px;
+width:2%;
+text-align:center;
+display: inline-block;
+}
+
+.right{
+height:100px;
+width:20%;
+
+text-align:left;
+display: inline-block;
+}
+
+.centered{
+width:5%;
+overflow: hidden;
+display: inline-block;
+text-align:center;
+}
